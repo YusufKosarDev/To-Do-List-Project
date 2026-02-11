@@ -1,47 +1,60 @@
-**Habit Tracker App Project**
+**To-Do List Project**
 
-This is a simple and practical Habit Tracker Application built using vanilla HTML, CSS, and JavaScript. It helps users build better routines by tracking daily habits and monitoring their progress over time.
 
-📝 What Does It Do?
+A compact, single-page To-Do List application that allows users to:
 
-The Habit Tracker App provides a clean and easy-to-use interface for managing daily habits.
+Add new tasks
 
-Allows users to add new habits
+Mark tasks as completed
 
-Displays a list of tracked habits
+Delete tasks
 
-Lets users mark habits as completed
+Manage daily activities efficiently
 
-Updates habit status dynamically
 
-Option to reset or manage habits
+**📝 What Does It Do?**
 
-⚙️ How Does It Work?
+The app helps users keep track of their daily tasks in a simple and clean interface:
 
-The project is built using core JavaScript concepts such as DOM manipulation, event handling, and state management:
+Add Task: Users can type a task into the input field and click the “Add” button.
 
-HTML Structure: Defines the layout for habit input, habit list, and action buttons
+Complete Task: Tasks can be marked as completed using a checkbox.
 
-CSS Styling: Provides a clean and responsive UI for better user experience
+Delete Task: Tasks can be removed individually using the delete (×) button.
 
-DOM Selection: Elements are selected using querySelector and getElementById
+Real-time Updates: The list updates instantly without refreshing the page.
 
-Event Listeners: User actions (adding, completing, deleting habits) are handled with click events
+The design focuses on simplicity, usability, and minimalism.
 
-Application Logic: Habits are stored and updated using JavaScript arrays and variables
 
-🎓 What Have I Learned?
+**⚙️ How Does It Work?**
 
-By building this project, I improved my understanding of:
+Single-page structure: Built using HTML, CSS, and Vanilla JavaScript.
 
-DOM Manipulation: Dynamically adding and updating habit items
+Event-driven logic:
 
-Event Handling: Responding to user interactions in real time
+A click event listener adds new tasks.
 
-JavaScript Logic: Managing application state and user data
+Checkbox events toggle completed state.
 
-UI Feedback: Visually indicating completed habits
+Delete button removes tasks dynamically.
 
-Clean Code Structure: Writing readable and maintainable vanilla JavaScript
+DOM manipulation: Tasks are created and appended dynamically to the list.
 
-🚀 Live Demo: https://yusufkosardev.github.io/To-Do-List-Project/
+Lightweight implementation: No external libraries — pure JavaScript and modern CSS styling.
+
+
+**🎓 What I Learned?**
+
+Handling user input and form validation.
+
+Working with event listeners in JavaScript.
+
+Dynamically creating and removing DOM elements.
+
+Managing UI state (completed vs active tasks).
+
+Designing a clean and responsive layout.
+
+
+**🚀 Live Demo**: https://yusufkosardev.github.io/To-Do-List-Project/
