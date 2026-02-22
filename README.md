@@ -1,4 +1,4 @@
-**To-Do List Project**
+# To-Do List Project
 
 
 A compact, single-page To-Do List application that allows users to:
@@ -12,7 +12,7 @@ Delete tasks
 Manage daily activities efficiently
 
 
-**📝 What Does It Do?**
+## 📝 What Does It Do?
 
 The app helps users keep track of their daily tasks in a simple and clean interface:
 
@@ -27,7 +27,7 @@ Real-time Updates: The list updates instantly without refreshing the page.
 The design focuses on simplicity, usability, and minimalism.
 
 
-**⚙️ How Does It Work?**
+## ⚙️ How Does It Work?
 
 Single-page structure: Built using HTML, CSS, and Vanilla JavaScript.
 
@@ -44,7 +44,7 @@ DOM manipulation: Tasks are created and appended dynamically to the list.
 Lightweight implementation: No external libraries — pure JavaScript and modern CSS styling.
 
 
-**🎓 What I Learned?**
+## 🎓 What I Learned?
 
 Handling user input and form validation.
 
@@ -57,4 +57,4 @@ Managing UI state (completed vs active tasks).
 Designing a clean and responsive layout.
 
 
-**🚀 Live Demo**: https://yusufkosardev.github.io/To-Do-List-Project/
+### 🚀 Live Demo: https://yusufkosardev.github.io/To-Do-List-Project/
